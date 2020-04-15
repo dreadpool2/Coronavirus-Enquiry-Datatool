@@ -13,5 +13,5 @@
 10. Table Sorted According to CasesTotal-Tests-Taken [Decreasing Order]
 11. Table Sorted According to RecoveredCases Ratio [Decreasing Order]
 
-### Data is fetched from httpswww.worldometers.infocoronavirus 
+### Data is fetched from https://www.worldometers.infocoronavirus 
 ### Developers are free to contribute!
